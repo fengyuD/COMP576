@@ -1,2 +1,2 @@
 if __name__ == "__main__":
-    print("Homework 2 Task 6")
+    print("Homework0 Task 6")
